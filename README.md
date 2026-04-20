@@ -1,7 +1,6 @@
 # MCA × Cobblemon — Issue Tracker
 
 This repository is the public issue tracker for the **MCA × Cobblemon** mod.
-The source code is maintained separately in a private repository.
 
 ---
 
