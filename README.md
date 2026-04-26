@@ -22,9 +22,10 @@ Please check the following first:
 
 ### Compatibility
 
-| Minecraft | NeoForge | MCA | Cobblemon |
+| Minecraft | Mod Loader | MCA | Cobblemon |
 |---|---|---|---|
-| 1.21.1 | 21.1.x | 7.x | 1.7.x |
+| 1.21.1 | Neoforge 21.1.x | 7.x | 1.7.x |
+| 1.21.1 | Fabric | 7.x | 1.7.x |
 
 ---
 
